@@ -2,7 +2,7 @@
 
 [![Playwright Tests](https://github.com/andcbzii/Kiyueytes/actions/workflows/playwright.yml/badge.svg)](https://github.com/andcbzii/Kiyueytes/actions)
 
-End-to-end tests for [Kiyueytes](https://www.saucedemo.com/) using Playwright, the Page Object Model, GitHub Actions and Allure reports.
+End-to-end tests for [Kiyueytes](https://andcbzii.github.io/Kiyueytes/) using Playwright, the Page Object Model, GitHub Actions and Allure reports.
 
 ## Run locally
 
