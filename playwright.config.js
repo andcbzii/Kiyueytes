@@ -8,6 +8,7 @@ module.exports = defineConfig({
   reporter: [
     ['list'],
     ['html', { outputFolder: 'playwright-report' }],
+    ['allure-playwright'],
   ],
 
   use: {

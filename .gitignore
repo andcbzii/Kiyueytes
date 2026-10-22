@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Playwright reports
+playwright-report/
+test-results/
+
+# Allure
+allure-report/
+allure-results/
+
+# Environment
+.env
+.env.*.local
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
