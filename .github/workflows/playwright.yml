@@ -66,3 +66,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./allure-report
           publish_branch: gh-pages
+
+      - name: Check Allure results
+        if: always()
+        run: |
+          ls -la allure-results || echo "allure-results is MISSING"
+          ls allure-results | wc -l
