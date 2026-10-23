@@ -1,1 +1,1 @@
-[]
+[{"uid":"cbd856f9f8d162a5","name":"locked out user sees error","time":{"start":1792714181800,"stop":1792714182473,"duration":673},"status":"passed","severity":"normal"},{"uid":"aa25f372eac69a54","name":"valid login redirects to inventory","time":{"start":1792714179726,"stop":1792714180837,"duration":1111},"status":"passed","severity":"normal"},{"uid":"a6748f6cca383f27","name":"invalid login shows error message","time":{"start":1792714181116,"stop":1792714181789,"duration":673},"status":"passed","severity":"normal"}]

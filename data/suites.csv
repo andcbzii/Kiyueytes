@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","673","locked out user sees error","chromium","2026-10-23","passed","2026-10-23","Login tests","login.spec.js","",""
+"","1111","valid login redirects to inventory","chromium","2026-10-23","passed","2026-10-23","Login tests","login.spec.js","",""
+"","673","invalid login shows error message","chromium","2026-10-23","passed","2026-10-23","Login tests","login.spec.js","",""
